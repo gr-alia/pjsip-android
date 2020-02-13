@@ -49,7 +49,7 @@ local.properties
 .idea/scopes/scope_settings.xml
 .idea/vcs.xml
 .idea/markdown*
-.idea
+.idea/*
 
 # OS-specific files
 .DS_Store
