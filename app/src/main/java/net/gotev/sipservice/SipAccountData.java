@@ -189,7 +189,7 @@ public class SipAccountData implements Parcelable {
                 username, 0, password);
     }
 
-    String getIdUri() {
+    public String getIdUri() {
         if ("*".equals(realm))
             return "sip:" + username;
 
